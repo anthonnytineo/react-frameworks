@@ -1,4 +1,3 @@
-import React from 'react';
 import MaterialCard from "./MaterialCard"
 
 export default function MaterialUI(){
@@ -10,3 +9,5 @@ export default function MaterialUI(){
     </>
   );
 }
+
+
